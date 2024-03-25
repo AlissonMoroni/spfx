@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "helloword-webpart",
+    "libraryId": "cd9ce3d6-3ea8-44dd-9822-8b64a9c5f5cc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "helloword-webpart",
+    "solutionShortDescription": "helloword-webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
